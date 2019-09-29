@@ -1,1 +1,1 @@
-# yaz-l-m
+# yazilim
